@@ -8,4 +8,12 @@ class Awesome
   def frown
     return ':('
   end
+
+  def foo
+    'foo'
+  end
+
+  def bar
+    'bar'
+  end
 end
